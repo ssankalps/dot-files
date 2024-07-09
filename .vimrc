@@ -1,8 +1,8 @@
 set nu
 set encoding=utf-8
 map <F5> :set spelllang=en spell!
-map <F2> :wq
-map <F3> :w
+map <F2> :w
+map <F3> :wq
 colorscheme slate
 set guicursor+=v:vCursor
 set softtabstop=4
